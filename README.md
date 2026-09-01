@@ -1,5 +1,4 @@
-# ecommerce-sales-analysis
-E-commerce Sales Analysis using Python, SQL and Power BI
+
 # E-Commerce Sales Analysis
 
 E-commerce sales data analysis project using Python, SQL, and Power BI to identify revenue trends, product performance, customer segments, and regional sales patterns.
